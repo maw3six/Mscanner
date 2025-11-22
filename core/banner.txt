@@ -1,0 +1,19 @@
+{{ .AnsiColor.Default }}
+
+{{ .AnsiColor.BrightCyan }}╔═══════════════════════════════════════════════════════╗{{ .AnsiColor.Default }}
+{{ .AnsiColor.BrightCyan }}║     WP CROT 2025 - WebShell Finder for WordPress     ║{{ .AnsiColor.Default }}
+{{ .AnsiColor.BrightCyan }}╚═══════════════════════════════════════════════════════╝{{ .AnsiColor.Default }}
+
+{{ .AnsiColor.BrightYellow }}[+] Author:{{ .AnsiColor.Default }}       Maw3six
+{{ .AnsiColor.BrightYellow }}[+] Version:{{ .AnsiColor.Default }}      {{ .App.Version }}
+{{ .AnsiColor.BrightYellow }}[+] Go Version:{{ .AnsiColor.Default }}   {{ .GoVersion }}
+{{ .AnsiColor.BrightYellow }}[+] System:{{ .AnsiColor.Default }}       {{ .GOOS }}/{{ .GOARCH }}
+{{ .AnsiColor.BrightYellow }}[+] License:{{ .AnsiColor.Default }}      MIT
+{{ .AnsiColor.BrightYellow }}[+] Contact:{{ .AnsiColor.Default }}      maw3six@protonmail.com
+{{ .AnsiColor.BrightYellow }}[+] GitHub:{{ .AnsiColor.Default }}       github.com/maw3six/webshell-finder
+
+{{ .AnsiColor.BrightMagenta }}[*] Description:{{ .AnsiColor.Default }} Finds shells, uploaders, and backdoors
+{{ .AnsiColor.BrightRed }}[!] Disclaimer:{{ .AnsiColor.Default }}  For educational purposes only
+{{ .AnsiColor.BrightRed }}[!] Warning:{{ .AnsiColor.Default }}     Use at your own risk!
+
+{{ .AnsiColor.BrightGreen }}════════════════════════════════════════════════════════{{ .AnsiColor.Default }}
