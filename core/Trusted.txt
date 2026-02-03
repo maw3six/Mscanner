@@ -296,6 +296,10 @@ CanResetPassword
 capabilities
 CapabilityProfile
 CapsuleManagerTrait
+embed
+add
+publickey
+file
 Caption
 CarbonDoctrineType
 caseFolding
@@ -1218,3 +1222,4 @@ XMLInternalErrorsHelper
 Zip
 ZipSizePredictionFailed
 zipstream
+
