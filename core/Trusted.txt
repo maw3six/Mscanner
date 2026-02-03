@@ -8,8 +8,6 @@ BiodataDosen
 AbstractArray
 ganti_password.blade
 index.blade
-Berikut daftar nama file blade dalam plain text:
-
 login.blade
 register.blade
 verify-email.blade
@@ -1423,6 +1421,7 @@ XMLInternalErrorsHelper
 Zip
 ZipSizePredictionFailed
 zipstream
+
 
 
 
